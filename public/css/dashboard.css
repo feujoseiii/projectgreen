@@ -1,0 +1,59 @@
+#progress-section {
+  margin-top: 40px;
+}
+
+/* Bootstrap overrides */
+.card {
+  border-radius: 0;
+  margin: 10px 0;
+}
+
+.card-block, .card-footer {
+  padding: 15px;
+}
+
+.card-footer {
+  background-color: #FFFFFF;
+  border: 0;
+}
+
+.container {
+  width: 1280px;
+}
+
+/*Process styles */
+
+.process-header {
+  width: 100%;
+  height: 50px;
+  border: 1px solid silver;
+  padding: 10px;
+  background-color: #3498db;
+  color: #ecf0f1;
+}
+
+.process-header span {
+  font-size: 110%;
+  font-weight: 300;
+  width: 100%;
+  margin: 0 5px;
+}
+
+.ion-icon {
+  margin-right: 5px;
+}
+
+.process-footer-person {
+  width: 34px; /*max of 6 images*/
+  height: auto;
+  margin-right: 5px;
+}
+
+.process-card-title {
+  font-weight: bold;
+}
+
+.process-card-description {
+  margin-top: 20px;
+  font-size: 80%;
+}
